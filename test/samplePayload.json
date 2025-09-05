@@ -1,0 +1,9 @@
+{
+  "order_id": "ORDER123",
+  "customer": {
+    "company_name": "Test Business Pvt Ltd",
+    "gstin": "29ABCDE1234F2Z5",
+    "email": "customer@example.com"
+  },
+  "plan_code": "SCAN_PLAN_5INR"
+}
